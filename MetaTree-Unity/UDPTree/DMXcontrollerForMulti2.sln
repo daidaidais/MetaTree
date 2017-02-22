@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMXcontrollerForMulti2.CSharp.Plugins", "DMXcontrollerForMulti2.CSharp.Plugins.csproj", "{EDAE7504-9F32-010A-FD4B-87ACB1A7EC2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMXcontrollerForMulti2.CSharp", "DMXcontrollerForMulti2.CSharp.csproj", "{4241C91E-C112-5E45-B979-9548BB967364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMXcontrollerForMulti2.CSharp.Editor", "DMXcontrollerForMulti2.CSharp.Editor.csproj", "{B6BF1DDE-2ACC-B85F-EDB1-A68DF4488D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAE7504-9F32-010A-FD4B-87ACB1A7EC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAE7504-9F32-010A-FD4B-87ACB1A7EC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAE7504-9F32-010A-FD4B-87ACB1A7EC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAE7504-9F32-010A-FD4B-87ACB1A7EC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4241C91E-C112-5E45-B979-9548BB967364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4241C91E-C112-5E45-B979-9548BB967364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4241C91E-C112-5E45-B979-9548BB967364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4241C91E-C112-5E45-B979-9548BB967364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BF1DDE-2ACC-B85F-EDB1-A68DF4488D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BF1DDE-2ACC-B85F-EDB1-A68DF4488D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BF1DDE-2ACC-B85F-EDB1-A68DF4488D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BF1DDE-2ACC-B85F-EDB1-A68DF4488D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
